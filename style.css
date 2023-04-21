@@ -1,0 +1,107 @@
+* {
+    background-color: #fbf4ca;
+    color: #733c14;
+    scroll-behavior: smooth;
+}
+
+menu {
+    background-color: #f7e98e;
+    color: #8b4a15;
+    align-items: center;
+}
+
+.menu-text {
+    color: #8b4a15;
+    align: center;
+    background-color: #f7e98e;
+    padding: 10px;
+    border: 1px solid #421f06;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000000;
+    margin-right: 400px;
+    cursor: pointer
+}
+
+.menu-btn {
+    color: #8b4a15;
+    align: center;
+    background-color: #f7e98e;
+    border: 1px solid #421f06;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    background-color: #f7e98e;
+    color: #8b4a15;
+    padding: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000000;
+    cursor: pointer;
+    border-top: 1px solid #421f06;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+p {
+    font-family: "Ubuntu Mono";
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 25px;
+
+    color: #8b4a15;
+    line-height: 1.5;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.btn {
+    color: #8b4a15;
+    align: right;
+    background-color: #f7e98e;
+    border: 1px solid #421f06;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#q1, #q2, #q3, #q4 {
+    justify-content: space-between;
+}
