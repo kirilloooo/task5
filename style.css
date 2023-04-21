@@ -105,3 +105,8 @@ h1, h2, h3, h4, h5, h6 {
 #q1, #q2, #q3, #q4 {
     justify-content: space-between;
 }
+
+footer a {
+    background-color: #f7e98e;
+    color: #8b4a15;
+}
